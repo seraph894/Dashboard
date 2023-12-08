@@ -342,8 +342,10 @@ p{
     }
     .score{
     position:relative;
-    font-size:15px;
-    top:195px;
+    font-size:20px;
+    top:190px;
+    transform-origin:center;
+    transform:scale(0.6);
     }
     .great{
     position:absolute;
@@ -378,7 +380,7 @@ p{
     .continue-block{
     position:absolute;
     left:8px;
-    top:235px;
+    top:245px;
     transform:scale(1.1);
     }
     .one{
@@ -433,5 +435,37 @@ p{
     .reaction{
     position:absolute;
     left:50px;
+    }
+    .value-1{
+    position:absolute;
+    left:190px;
+    }
+    .value-2{
+    position:absolute;
+    left:210px;
+    }
+    .value-3{
+    position:absolute;
+    left:190px;  
+    }
+    .value-4{
+    position:absolute;
+    left:210px;
+    }
+    .value-5{
+    position:absolute;
+    left:190px;  
+    }
+    .value-6{
+    position:absolute;
+    left:210px;
+    }
+    .value-7{
+    position:absolute;
+    left:190px;  
+    }
+    .value-8{
+    position:absolute;
+    left:210px;
     }
 }
