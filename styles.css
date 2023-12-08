@@ -379,9 +379,9 @@ p{
     }
     .continue-block{
     position:absolute;
-    left:8px;
+    left:10px;
     top:245px;
-    transform:scale(1.1);
+    transform:scale(1.17);
     }
     .one{
     margin-left:-720px;
